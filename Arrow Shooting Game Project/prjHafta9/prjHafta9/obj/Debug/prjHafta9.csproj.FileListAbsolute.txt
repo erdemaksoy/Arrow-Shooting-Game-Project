@@ -1,0 +1,11 @@
+C:\Users\CSAdmin\source\repos\prjHafta9\prjHafta9\bin\Debug\prjHafta9.exe.config
+C:\Users\CSAdmin\source\repos\prjHafta9\prjHafta9\bin\Debug\prjHafta9.exe
+C:\Users\CSAdmin\source\repos\prjHafta9\prjHafta9\bin\Debug\prjHafta9.pdb
+C:\Users\CSAdmin\source\repos\prjHafta9\prjHafta9\obj\Debug\prjHafta9.csprojAssemblyReference.cache
+C:\Users\CSAdmin\source\repos\prjHafta9\prjHafta9\obj\Debug\prjHafta9.Properties.Resources.resources
+C:\Users\CSAdmin\source\repos\prjHafta9\prjHafta9\obj\Debug\prjHafta9.csproj.GenerateResource.cache
+C:\Users\CSAdmin\source\repos\prjHafta9\prjHafta9\obj\Debug\prjHafta9.csproj.CoreCompileInputs.cache
+C:\Users\CSAdmin\source\repos\prjHafta9\prjHafta9\obj\Debug\prjHafta9.exe
+C:\Users\CSAdmin\source\repos\prjHafta9\prjHafta9\obj\Debug\prjHafta9.pdb
+C:\Users\CSAdmin\source\repos\prjHafta9\prjHafta9\obj\Debug\prjHafta9.Form1.resources
+C:\Users\CSAdmin\source\repos\prjHafta9\prjHafta9\obj\Debug\prjHafta9.ucntrlKacanBalon.resources
